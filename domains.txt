@@ -1,0 +1,8 @@
+# Roblox privacy list for Pi-hole
+# Experimental: test each domain before keeping it
+# Do not add core Roblox gameplay or CDN domains
+
+ecsv2.roblox.com
+client-telemetry.roblox.com
+metrics.roblox.com
+tracing.roblox.com
